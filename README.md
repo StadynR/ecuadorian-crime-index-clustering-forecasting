@@ -1,4 +1,4 @@
-# Canton-Level Crime Risk Index and National Forecasting — Ecuador
+# Canton-Level Crime Risk Index and National Forecasting - Ecuador
 
 This repository contains the full analytical pipeline for a master's thesis research project on crime risk in Ecuador. It covers two stages: an **exploratory data analysis (EDA)** that constructs a canton-level composite risk index, and a **forecasting** study that projects the national crime risk index up to 2025 using multiple time-series models.
 
@@ -84,8 +84,8 @@ No test-period data leaks into PCA weights, normalization parameters, or early s
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/StadynR/ecuadorian-crime-index-clustering-forecasting
+cd ecuadorian-crime-index-clustering-forecasting
 ```
 
 ### 2. Create a virtual environment and install dependencies
